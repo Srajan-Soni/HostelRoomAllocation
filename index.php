@@ -54,7 +54,7 @@
         <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy;  All Rights Reserved | Design by <a href="https://www.linkedin.com/in/bharat-reddy/">Srajan Soni</a></p>
+        <p class="copyright-agileinfo"> &copy;  All Rights Reserved | Design by <a href="https://www.linkedin.com/in/srajan-soni-4b49601a4/">Srajan Soni</a></p>
     </footer>
 
 </body>
