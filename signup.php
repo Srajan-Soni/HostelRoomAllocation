@@ -105,7 +105,7 @@
         <p class=" w3l-register-p">Already a member?<a href="index.php" class="register"> Login</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; 2018 DBMS Project. All Rights Reserved | Design by <a href="https://www.linkedin.com/in/bharat-reddy/">Bharat-Prajwal-Rakesh</a></p>
+        <p class="copyright-agileinfo"> &copy;  All Rights Reserved | Design by <a href="https://www.linkedin.com/in/srajan-soni-4b49601a4/">Srajan Soni</a></p>
     </footer>
 
 </body>
