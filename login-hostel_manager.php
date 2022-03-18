@@ -53,8 +53,8 @@
           <p class=" w3l-register-p">Login as<a href="index.php" class="register"> Student</a></p>
       <!--  <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>-->
     </div>
-    <footer>
-        <p class="copyright-agileinfo"> &copy; 2018 DBMS Project. All Rights Reserved | Design by <a href="https://www.linkedin.com/in/bharat-reddy/">Bharat-Prajwal-Rakesh</a></p>
+  <footer>
+        <p class="copyright-agileinfo"> &copy;  All Rights Reserved | Design by <a href="https://www.linkedin.com/in/srajan-soni-4b49601a4/">Srajan Soni</a></p>
     </footer>
 
 </body>
